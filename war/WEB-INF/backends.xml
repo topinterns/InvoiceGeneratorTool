@@ -1,0 +1,5 @@
+<backends>
+  <backend name="test-backend">
+    <class>B4</class>
+  </backend>
+</backends>
